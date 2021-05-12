@@ -1,0 +1,5 @@
+out/
+.idea/
+*.iml
+*.mp4
+lib/
